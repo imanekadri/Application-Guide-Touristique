@@ -1,3 +1,53 @@
 <resources>
-    <string name="app_name">interface</string>
+
+
+    <string name="app_name">guide touristique</string>
+    <string name="textview">Welcome To Our app\n \n Uncover Korea, the land of captivating stories and flavorful cuisine</string>
+    <string name="tourist_guide">Tourist Guide</string>
+    <string name="description">Description</string>
+
+                      <!--    hotels-->
+
+
+    <!--    hotel1-->
+    <string name="textviewhotel1">Four Seasons Hotel Seoul</string>
+    <string name="detailshotel1">Just steps from Gwanghwamun Plaza, Four Seasons Hotel Seoul boasts commanding city views and features 5 in-house dining, a state-of-the art fitness facilities.</string>
+    <string name="adresshotel1">97, Saemunan-ro, Jongno-gu, 03183 Séoul </string>
+    <string name="contacthotel1">Contact Us on : 05566666666</string>
+
+
+
+
+    <!--    hotel2-->
+    <string name="textviewhotel2">Escape hotel</string>
+    <string name="detailshotel2">The Escape Hotel is located in Seoul and offers a fitness center and a bar. The front desk is open 24/7. Guests can also enjoy a restaurant on-site. Free Wi-Fi is provided.</string>
+    <string name="adresshotel2">67,Toegye-ro,Jung-gu,04529 Séoul</string>
+    <string name="contacthotel2">Contact Us on : 05566666666</string>
+
+
+
+    <!--    hotel3-->
+    <string name="textviewhotel3">Ryse Hotel</string>
+    <string name="detailshotel3">The RYSE, Autograph Collection Seoul is a hotel in the lively Hongdae area, near Hongik University subway station (Exit 9, with multiple lines). It offers free Wi-Fi and valet parking.</string>
+    <string name="adresshotel3">130, Yanghwa-ro, Mapo-gu, 04038 Séoul</string>
+    <string name="contacthotel3">Contact Us on : 05566666666</string>
+
+
+
+
+    <!--    hotel4-->
+    <string name="texthotel4">Signiel Seoul</string>
+    <string name="detailshotel4">The Signiel Seoul, a 5-star hotel high in the Lotte World Tower, offers panoramic city views, fine dining, an indoor pool, and a gym. It's directly connected to the Jamsil subway station and provides free Wi-Fi.</string>
+    <string name="adresshotel4">300, Olympic-ro, Songpa-Gu, 05551 Séoul</string>
+    <string name="contacthotel4">Contact Us on : 05566666666</string>
+
+
+
+    <!--    restaurant1-->
+
+    <string name="textview6">Daol Charcoal Grill</string>
+    <string name="detailshotel6">Daol Charcoal Grill Myeongdong Branch is a restaurant where you can taste representative K-food foods such as bulgogi, soybean paste stew and fresh food .</string>
+    <string name="adress6">54-2, Myeongdong 2-ga 1st And 2nd Floors, Séoul 04536 </string>
+    <string name="contact6">Contact Us on :+888888 </string>
+
 </resources>

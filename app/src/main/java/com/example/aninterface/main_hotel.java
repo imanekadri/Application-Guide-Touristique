@@ -22,7 +22,7 @@ public class main_hotel extends AppCompatActivity {
 
 
         ListView list = findViewById(R.id.list);
-        toutAdapter adapter = new toutAdapter(this, hotelList);
+        toutAdapter adapter = new toutAdapter(this, hotelList , "hotel");
         list.setAdapter(adapter);
 
 

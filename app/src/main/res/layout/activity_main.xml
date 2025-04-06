@@ -9,7 +9,7 @@
     android:background="@color/white"
     android:orientation="vertical"
 
-    tools:context=".MainActivity">
+    tools:context=".MainActivity2">
 
     <!-- ScrollView to enable scrolling -->
     <ScrollView
@@ -230,10 +230,11 @@
                                          android:layout_marginLeft="10dp">
 
                                              <ImageView
+
                                                     android:layout_width="match_parent"
                                                     android:layout_height="match_parent"
-                                                    android:background="@drawable/four_season_hotel" />
-
+                                                    android:background="@drawable/four_season_hotel"
+                                                    android:id="@+id/card_Hotel1" />
 
                                   </androidx.cardview.widget.CardView>
 
@@ -333,7 +334,8 @@
                                 <ImageView
                                     android:layout_width="match_parent"
                                     android:layout_height="match_parent"
-                                    android:background="@drawable/espace_hotel" />
+                                    android:background="@drawable/espace_hotel"
+                                    android:id="@+id/card_Hotel2"/>
 
 
                             </androidx.cardview.widget.CardView>
@@ -434,7 +436,9 @@
                                 <ImageView
                                     android:layout_width="match_parent"
                                     android:layout_height="match_parent"
-                                    android:background="@drawable/rsye_hotel" />
+                                    android:background="@drawable/rsye_hotel"
+                                    android:id="@+id/card_Hotel3"
+                                    />
 
 
                             </androidx.cardview.widget.CardView>
@@ -1220,7 +1224,7 @@
            </LinearLayout>
 
 
-           <!-- sea -->
+           <!-- temple -->
 
            <LinearLayout
                android:layout_width="match_parent"
@@ -1236,7 +1240,7 @@
                    <TextView
                        android:layout_width="wrap_content"
                        android:layout_height="wrap_content"
-                       android:text="Popular Garden"
+                       android:text="Popular temple"
                        android:textStyle="bold"
                        android:textSize="20dp"/>
 
@@ -1285,7 +1289,7 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/espace_hotel" />
+                                   android:background="@drawable/temple1" />
 
 
                            </androidx.cardview.widget.CardView>
@@ -1300,7 +1304,7 @@
                                <TextView
                                    android:layout_width="wrap_content"
                                    android:layout_height="wrap_content"
-                                   android:text=" Ryse Hotel"
+                                   android:text="  Hwagyesa"
                                    android:layout_marginTop="20dp"
                                    android:layout_marginBottom="2dp"
                                    android:textSize="17dp"
@@ -1319,7 +1323,7 @@
                                    <TextView
                                        android:layout_width="wrap_content"
                                        android:layout_height="wrap_content"
-                                       android:text="Mapo-Gu, Seoul"/>
+                                       android:text="hwagyesa-gil"/>
 
                                </LinearLayout>
 
@@ -1332,7 +1336,108 @@
                                    <TextView
                                        android:layout_width="wrap_content"
                                        android:layout_height="wrap_content"
-                                       android:text="$600 "
+                                       android:text="$20 "
+                                       android:textColor="#2196F3"
+                                       />
+                                   <TextView
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:text=" / person"/>
+                               </LinearLayout>
+
+                               <LinearLayout
+                                   android:layout_width="wrap_content"
+                                   android:layout_height="wrap_content"
+                                   android:layout_marginTop="5dp"
+                                   android:layout_marginLeft="10dp"
+                                   android:orientation="horizontal">
+                                   <ImageView
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:src="@drawable/baseline_star_24"/>
+
+                                   <TextView
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:layout_marginRight="12dp"
+                                       android:text="3.5"/>
+                               </LinearLayout>
+                           </LinearLayout>
+                       </androidx.cardview.widget.CardView>
+
+
+
+                       <androidx.cardview.widget.CardView
+                           android:layout_width="wrap_content"
+                           android:layout_height="match_parent"
+                           app:cardCornerRadius="16dp"
+                           android:layout_marginTop="20dp"
+                           android:layout_marginRight="10dp"
+                           android:layout_marginLeft="1dp"
+                           app:cardElevation="5dp"
+                           android:layout_marginBottom="10dp"
+                           >
+
+
+                           <androidx.cardview.widget.CardView
+                               android:layout_width="100dp"
+                               android:layout_height="110dp"
+                               app:cardCornerRadius="16dp"
+                               app:cardElevation="0dp"
+                               android:layout_marginTop="20dp"
+                               android:layout_marginLeft="10dp">
+
+                               <ImageView
+                                   android:layout_width="match_parent"
+                                   android:layout_height="match_parent"
+                                   android:background="@drawable/temple2" />
+
+
+                           </androidx.cardview.widget.CardView>
+
+                           <LinearLayout
+                               android:layout_width="130dp"
+                               android:layout_height="match_parent"
+                               android:orientation="vertical"
+                               android:layout_marginRight="16dp"
+                               android:layout_marginLeft="115dp">
+
+                               <TextView
+                                   android:layout_width="wrap_content"
+                                   android:layout_height="wrap_content"
+                                   android:text=" Bongwonsal"
+                                   android:layout_marginTop="20dp"
+                                   android:layout_marginBottom="2dp"
+                                   android:textSize="17dp"
+                                   android:textStyle="bold"/>
+
+                               <LinearLayout
+                                   android:layout_width="match_parent"
+                                   android:layout_height="20dp"
+                                   android:layout_marginTop="6dp"
+                                   android:layout_marginLeft="7dp"
+                                   android:orientation="horizontal">
+                                   <ImageView
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:src="@drawable/baseline_location_on_24"/>
+                                   <TextView
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:text="Ujeonggok-re"/>
+
+                               </LinearLayout>
+
+                               <LinearLayout
+                                   android:layout_width="match_parent"
+                                   android:layout_height="20dp"
+                                   android:layout_marginTop="3dp"
+                                   android:layout_marginLeft="12dp"
+                                   android:orientation="horizontal">
+                                   <TextView
+                                       android:layout_width="wrap_content"
+                                       android:layout_height="wrap_content"
+                                       android:text="$60 "
                                        android:textColor="#2196F3"
                                        />
                                    <TextView
@@ -1386,7 +1491,7 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/espace_hotel" />
+                                   android:background="@drawable/temple3" />
 
 
                            </androidx.cardview.widget.CardView>
@@ -1401,7 +1506,7 @@
                                <TextView
                                    android:layout_width="wrap_content"
                                    android:layout_height="wrap_content"
-                                   android:text=" Ryse Hotel"
+                                   android:text=" Jogyesa"
                                    android:layout_marginTop="20dp"
                                    android:layout_marginBottom="2dp"
                                    android:textSize="17dp"
@@ -1420,7 +1525,7 @@
                                    <TextView
                                        android:layout_width="wrap_content"
                                        android:layout_height="wrap_content"
-                                       android:text="Mapo-Gu, Seoul"/>
+                                       android:text="ujeoagguk-ro"/>
 
                                </LinearLayout>
 
@@ -1433,7 +1538,7 @@
                                    <TextView
                                        android:layout_width="wrap_content"
                                        android:layout_height="wrap_content"
-                                       android:text="$600 "
+                                       android:text="$10 "
                                        android:textColor="#2196F3"
                                        />
                                    <TextView
@@ -1457,108 +1562,7 @@
                                        android:layout_width="wrap_content"
                                        android:layout_height="wrap_content"
                                        android:layout_marginRight="12dp"
-                                       android:text="4.5"/>
-                               </LinearLayout>
-                           </LinearLayout>
-                       </androidx.cardview.widget.CardView>
-
-
-
-                       <androidx.cardview.widget.CardView
-                           android:layout_width="wrap_content"
-                           android:layout_height="match_parent"
-                           app:cardCornerRadius="16dp"
-                           android:layout_marginTop="20dp"
-                           android:layout_marginRight="10dp"
-                           android:layout_marginLeft="1dp"
-                           app:cardElevation="5dp"
-                           android:layout_marginBottom="10dp"
-                           >
-
-
-                           <androidx.cardview.widget.CardView
-                               android:layout_width="100dp"
-                               android:layout_height="110dp"
-                               app:cardCornerRadius="16dp"
-                               app:cardElevation="0dp"
-                               android:layout_marginTop="20dp"
-                               android:layout_marginLeft="10dp">
-
-                               <ImageView
-                                   android:layout_width="match_parent"
-                                   android:layout_height="match_parent"
-                                   android:background="@drawable/espace_hotel" />
-
-
-                           </androidx.cardview.widget.CardView>
-
-                           <LinearLayout
-                               android:layout_width="130dp"
-                               android:layout_height="match_parent"
-                               android:orientation="vertical"
-                               android:layout_marginRight="16dp"
-                               android:layout_marginLeft="115dp">
-
-                               <TextView
-                                   android:layout_width="wrap_content"
-                                   android:layout_height="wrap_content"
-                                   android:text=" Ryse Hotel"
-                                   android:layout_marginTop="20dp"
-                                   android:layout_marginBottom="2dp"
-                                   android:textSize="17dp"
-                                   android:textStyle="bold"/>
-
-                               <LinearLayout
-                                   android:layout_width="match_parent"
-                                   android:layout_height="20dp"
-                                   android:layout_marginTop="6dp"
-                                   android:layout_marginLeft="7dp"
-                                   android:orientation="horizontal">
-                                   <ImageView
-                                       android:layout_width="wrap_content"
-                                       android:layout_height="wrap_content"
-                                       android:src="@drawable/baseline_location_on_24"/>
-                                   <TextView
-                                       android:layout_width="wrap_content"
-                                       android:layout_height="wrap_content"
-                                       android:text="Mapo-Gu, Seoul"/>
-
-                               </LinearLayout>
-
-                               <LinearLayout
-                                   android:layout_width="match_parent"
-                                   android:layout_height="20dp"
-                                   android:layout_marginTop="3dp"
-                                   android:layout_marginLeft="12dp"
-                                   android:orientation="horizontal">
-                                   <TextView
-                                       android:layout_width="wrap_content"
-                                       android:layout_height="wrap_content"
-                                       android:text="$600 "
-                                       android:textColor="#2196F3"
-                                       />
-                                   <TextView
-                                       android:layout_width="wrap_content"
-                                       android:layout_height="wrap_content"
-                                       android:text=" / person"/>
-                               </LinearLayout>
-
-                               <LinearLayout
-                                   android:layout_width="wrap_content"
-                                   android:layout_height="wrap_content"
-                                   android:layout_marginTop="5dp"
-                                   android:layout_marginLeft="10dp"
-                                   android:orientation="horizontal">
-                                   <ImageView
-                                       android:layout_width="wrap_content"
-                                       android:layout_height="wrap_content"
-                                       android:src="@drawable/baseline_star_24"/>
-
-                                   <TextView
-                                       android:layout_width="wrap_content"
-                                       android:layout_height="wrap_content"
-                                       android:layout_marginRight="12dp"
-                                       android:text="4.5"/>
+                                       android:text="5.5"/>
                                </LinearLayout>
                            </LinearLayout>
                        </androidx.cardview.widget.CardView>

@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Interface"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".MainActivity1"
             android:exported="true">
 
 
@@ -36,6 +36,49 @@
 
         <activity
             android:name=".main_Garden"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+
+        <activity
+            android:name=".hotel1"
+            android:exported="false" />
+
+        <activity
+            android:name=".hotel2"
+            android:exported="false" />
+
+        <activity
+            android:name=".hotel3"
+            android:exported="false" />
+
+        <activity
+            android:name=".hotel4"
+            android:exported="false" />
+
+        <activity
+            android:name=".hotel5"
+            android:exported="false" />
+
+
+        <activity
+            android:name=".restaurant1"
+            android:exported="false" />
+
+        <activity
+            android:name=".restaurant2"
+            android:exported="false" />
+
+
+        <activity
+            android:name=".restaurant3"
+            android:exported="false" />
+
+
+        <activity
+            android:name=".main_temple"
             android:exported="false" />
     </application>
 
