@@ -587,7 +587,8 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/daol_res" />
+                                   android:background="@drawable/daol_res"
+                                   android:id="@+id/card_resl1"/>
 
 
                            </androidx.cardview.widget.CardView>
@@ -688,7 +689,8 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/flavors_res" />
+                                   android:background="@drawable/flavors_res"
+                                   android:id="@+id/card_resl2"/>
 
 
                            </androidx.cardview.widget.CardView>
@@ -789,7 +791,8 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/odarijip_res" />
+                                   android:background="@drawable/odarijip_res"
+                                   android:id="@+id/card_resl3"/>
 
 
                            </androidx.cardview.widget.CardView>
@@ -940,7 +943,8 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/nassaln_jardan" />
+                                   android:background="@drawable/nassaln_jardan"
+                                   android:id="@+id/card_garden1"/>
 
 
                            </androidx.cardview.widget.CardView>
@@ -1041,7 +1045,8 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/namsan_jadrn" />
+                                   android:background="@drawable/namsan_jadrn"
+                                   android:id="@+id/card_garden2"/>
 
 
                            </androidx.cardview.widget.CardView>
@@ -1142,7 +1147,9 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/seoul_child_gar" />
+                                   android:background="@drawable/seoul_child_gar"
+                                   android:id="@+id/card_garden3"
+                                   />
 
 
                            </androidx.cardview.widget.CardView>
@@ -1289,7 +1296,8 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/temple1" />
+                                   android:background="@drawable/temple1"
+                                   android:id="@+id/card_temple1"/>
 
 
                            </androidx.cardview.widget.CardView>
@@ -1390,7 +1398,8 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/temple2" />
+                                   android:background="@drawable/temple2"
+                                   android:id="@+id/card_temple2"/>
 
 
                            </androidx.cardview.widget.CardView>
@@ -1491,7 +1500,8 @@
                                <ImageView
                                    android:layout_width="match_parent"
                                    android:layout_height="match_parent"
-                                   android:background="@drawable/temple3" />
+                                   android:background="@drawable/temple3"
+                                   android:id="@+id/card_temple3"/>
 
 
                            </androidx.cardview.widget.CardView>

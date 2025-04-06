@@ -112,8 +112,8 @@ public class toutAdapter extends BaseAdapter {
                 return new Intent(context, restaurant2.class);
             case 2:
                 return new Intent(context, restaurant3.class);
-//            case 3: return new Intent(context, restaurant4.class);
-//            case 4: return new Intent(context, restaurant5.class);
+            case 3: return new Intent(context, restaurant4.class);
+            case 4: return new Intent(context, restaurant5.class);
             default:
                 return new Intent(context, MainActivity2.class);
         }

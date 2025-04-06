@@ -35,19 +35,48 @@
 
 
 
-    <!--    hotel4-->
-    <string name="texthotel4">Signiel Seoul</string>
-    <string name="detailshotel4">The Signiel Seoul, a 5-star hotel high in the Lotte World Tower, offers panoramic city views, fine dining, an indoor pool, and a gym. It's directly connected to the Jamsil subway station and provides free Wi-Fi.</string>
-    <string name="adresshotel4">300, Olympic-ro, Songpa-Gu, 05551 Séoul</string>
-    <string name="contacthotel4">Contact Us on : 05566666666</string>
+<!--    &lt;!&ndash;    hotel4&ndash;&gt;-->
+<!--    <string name="texthotel4">Signiel Seoul</string>-->
+<!--    <string name="detailshotel4">The Signiel Seoul, a 5-star hotel high in the Lotte World Tower, offers panoramic city views, fine dining, an indoor pool, and a gym. It's directly connected to the Jamsil subway station and provides free Wi-Fi.</string>-->
+<!--    <string name="adresshotel4">300, Olympic-ro, Songpa-Gu, 05551 Séoul</string>-->
+<!--    <string name="contacthotel4">Contact Us on : 05566666666</string>-->
 
 
 
     <!--    restaurant1-->
 
-    <string name="textview6">Daol Charcoal Grill</string>
-    <string name="detailshotel6">Daol Charcoal Grill Myeongdong Branch is a restaurant where you can taste representative K-food foods such as bulgogi, soybean paste stew and fresh food .</string>
-    <string name="adress6">54-2, Myeongdong 2-ga 1st And 2nd Floors, Séoul 04536 </string>
-    <string name="contact6">Contact Us on :+888888 </string>
+    <string name="textviewres1">Daol Charcoal Grill</string>
+    <string name="detailsres1">Daol Charcoal Grill Myeongdong Branch is a restaurant where you can taste representative K-food foods such as bulgogi, soybean paste stew and fresh food .</string>
+    <string name="adressres1">54-2, Myeongdong 2-ga 1st And 2nd Floors, Séoul 04536 </string>
+    <string name="contactres56">Contact Us on :+888888 </string>
+
+
+    <!--    restaurant2-->
+
+    <string name="textrestau2">Flavors</string>
+    <string name="detailsrestau2">Indulge in delicious global cuisine in a dynamic and stylish atmosphere while dining at Flavors. Our restaurant is located in the JW Marriott Hotel Soul and serves breakfast, lunch and dinner daily</string>
+    <string name="adressrestau2">176 Sinbanpo-ro, Seocho-gu Séoul, Corée du Sud</string>
+    <string name="contactrestau2">Contact Us on :+888888 </string>
+
+
+
+    <!--    restaurant3-->
+    <string name="textrestau3">Odarijip Myeongdong</string>
+    <string name="detailsrestau3">Located in the busiest area in Myeongdong, it provides a variety of menus includint most popular Korean food such as Galbi(beef), Samgyupsal(pork), Yukhoe(raw beef), Naengmyeon(cold noodle) and tteokbokki.</string>
+    <string name="adressrestau3">2F, 28 Myeongdong 8na-gil, Jung District, Seoul, Corée du Sud </string>
+    <string name="contactrestau3">Contact Us on :+888888 </string>
+
+    <!--    restaurant4-->
+    <string name="textrestau4">Wonjomanlgobchang</string>
+    <string name="detailsrestau4">Korean restaurants that specialize in soup with bean sprouts Vegetarian food and specialized in the food and naturalism. Using only pure ingredients that provide healthy fofood. Friendly staff and reasonable prices is a good thing. </string>
+    <string name="adressrestau4"> 28, Myeongdong 8na-gil, Jung-gu 2F, Séoul 04536.</string>
+    <string name="contactrestau4">Contact Us on :+888888 </string>
+
+    <!--    restaurant4-->
+
+    <string name="textrestau5">Mukshidonna Samcheongdong</string>
+    <string name="detailsrestaurant5">Samcheong-dong is famous for its Bukchon Hanok (Korean traditional houses) Village, surrounded by both Gyeongbokgung Palace and Changdeokgung Palace Many tourists come here to rent traditional Korean costume of Hanbok, walking around taking #OOTDs. It’s quite amusing to watch, really. Maybe one day I will get enough courage to do that </string>
+    <string name="adressrestau5"> 74-7, Yulgok-ro 3-gil, Jongno-gu, Seoul 03061 South Korea.</string>
+    <string name="contactrestau5">Contact Us on :+88477888 </string>
 
 </resources>

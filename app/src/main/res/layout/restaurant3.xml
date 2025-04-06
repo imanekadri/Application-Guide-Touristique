@@ -23,7 +23,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="345dp"
                 android:scaleType="centerCrop"
-                app:srcCompat="@drawable/daol_res" />
+                app:srcCompat="@drawable/odarijip_res" />
 
 
 
@@ -41,7 +41,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="@string/textview6"
+                    android:text="@string/textrestau3"
                     android:textColor="@color/black"
                     android:textSize="21sp"
                     android:textStyle="bold" />
@@ -60,7 +60,7 @@
                         android:id="@+id/textt"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/adress6"
+                        android:text="@string/adressrestau3"
                         android:textColor="@color/black"
                         android:layout_marginLeft="5dp"
                         android:textStyle="bold"
@@ -85,7 +85,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="@string/detailshotel6"
+                    android:text="@string/detailsrestau3"
                     android:textColor="@color/black"
                     android:textSize="18sp" />
 
@@ -110,7 +110,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="@string/contact6"
+                    android:text="@string/contactrestau3"
                     android:textColor="@color/black"
                     android:textSize="17sp"
                     android:textStyle="bold" />
@@ -149,7 +149,7 @@
                     android:layout_width="32dp"
                     android:layout_height="32dp"
                     android:layout_marginStart="16dp"
-                    app:srcCompat="@drawable/ic_sms" />
+                    app:srcCompat="@drawable/download" />
 
                 <ImageView
                     android:id="@+id/phone_icon"

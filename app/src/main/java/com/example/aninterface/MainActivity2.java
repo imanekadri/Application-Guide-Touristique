@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity2 extends AppCompatActivity {
 
 
-    ImageView hotelIcon , resturantIcon , gardonIcon , chineseIcon , cardHotel1 ,  cardHotel2 , cardHotel3;
+    ImageView hotelIcon , resturantIcon , gardonIcon , chineseIcon , cardHotel1 ,  cardHotel2 , cardHotel3 , cardres1,cardres2,cardres3 , cardgarden1 , cardgarden2,cardgarden3 , cardtemple1 , cardtemple2,cardtemple3;
     TextView seehotel , seeResturant,seeGardon,seechinese;
 
 
@@ -117,6 +117,27 @@ public class MainActivity2 extends AppCompatActivity {
 
 
 
+        cardres1=(ImageView) findViewById(R.id.card_resl1);
+        cardres2=(ImageView)findViewById(R.id.card_resl2);
+        cardres3=(ImageView)findViewById(R.id.card_resl3);
+
+        cardres1.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, restaurant1.class);
+            startActivity(intent);
+        });
+
+        cardres2.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, restaurant2.class);
+            startActivity(intent);
+        });
+
+        cardres3.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, restaurant3.class);
+            startActivity(intent);
+        });
 
 
     }

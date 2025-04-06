@@ -41,7 +41,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="@string/texthotel4"
+                    android:text="@string/textviewhotel3"
                     android:textColor="@color/black"
                     android:textSize="22sp"
                     android:textStyle="bold" />
@@ -60,7 +60,7 @@
                         android:id="@+id/textt"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/adresshotel4"
+                        android:text="@string/adresshotel3"
                         android:textColor="@color/black"
                         android:layout_marginLeft="5dp"
                         android:textStyle="bold"
@@ -85,7 +85,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="@string/detailshotel4"
+                    android:text="@string/detailshotel3"
                     android:textColor="@color/black"
                     android:textSize="16sp" />
 
@@ -110,7 +110,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="@string/contacthotel4"
+                    android:text="@string/contacthotel3"
                     android:textColor="@color/black"
                     android:textSize="17sp"
                     android:textStyle="bold" />

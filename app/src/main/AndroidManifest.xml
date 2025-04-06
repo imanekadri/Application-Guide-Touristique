@@ -76,6 +76,14 @@
             android:name=".restaurant3"
             android:exported="false" />
 
+        <activity
+            android:name=".restaurant4"
+            android:exported="false" />
+
+        <activity
+            android:name=".restaurant5"
+            android:exported="false" />
+
 
         <activity
             android:name=".main_temple"
