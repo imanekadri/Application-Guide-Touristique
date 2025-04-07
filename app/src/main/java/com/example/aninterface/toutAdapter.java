@@ -67,12 +67,12 @@ public class toutAdapter extends BaseAdapter {
                 case "restaurant":
                     intent = getRestaurantIntent(position);
                     break;
-//                case "garden":
-//                    intent = getGardenIntent(position);
-//                    break;
-//                case "temple":
-//                    intent = getTempleIntent(position);
-//                    break;
+                case "garden":
+                    intent = getGardenIntent(position);
+                    break;
+                case "temple":
+                    intent = getTempleIntent(position);
+                    break;
                 default:
                     intent = new Intent(context, MainActivity2.class);
             }
@@ -112,32 +112,48 @@ public class toutAdapter extends BaseAdapter {
                 return new Intent(context, restaurant2.class);
             case 2:
                 return new Intent(context, restaurant3.class);
-            case 3: return new Intent(context, restaurant4.class);
-            case 4: return new Intent(context, restaurant5.class);
+            case 3:
+                return new Intent(context, restaurant4.class);
+            case 4:
+                return new Intent(context, restaurant5.class);
             default:
                 return new Intent(context, MainActivity2.class);
         }
     }
 
+
+    private Intent getGardenIntent(int position) {
+        switch (position) {
+            case 0:
+                return new Intent(context, garden1.class);
+            case 1:
+                return new Intent(context, garden2.class);
+            case 2:
+                return new Intent(context, garden3.class);
+            case 3:
+                return new Intent(context, garden4.class);
+            case 4:
+                return new Intent(context, garden5.class);
+            default:
+                return new Intent(context, MainActivity2.class);
+        }
+    }
+
+
+    private Intent getTempleIntent(int position) {
+        switch (position) {
+            case 0:
+                return new Intent(context, temple1.class);
+            case 1: return new Intent(context, temple2.class);
+            case 2:
+                return new Intent(context, temple3.class);
+            case 3:
+                return new Intent(context, temple4.class);
+            case 4:
+                return new Intent(context, temple5.class);
+            default: return new Intent(context, MainActivity2.class);
+        }
+
+
+    }
 }
-
-//    private Intent getGardenIntent(int position) {
-//        switch (position) {
-//            case 0: return new Intent(context, garden1.class);
-//            case 1: return new Intent(context, garden2.class);
-//            case 2: return new Intent(context, garden3.class);
-//            default: return new Intent(context, MainActivity2.class);
-//        }
-//    }
-//
-//    private Intent getTempleIntent(int position) {
-//        switch (position) {
-//            case 0: return new Intent(context, temple1.class);
-//            case 1: return new Intent(context, temple2.class);
-//            case 2: return new Intent(context, temple3.class);
-//            default: return new Intent(context, MainActivity2.class);
-//        }
-
-
-    
-       

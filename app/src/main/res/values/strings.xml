@@ -35,11 +35,18 @@
 
 
 
-<!--    &lt;!&ndash;    hotel4&ndash;&gt;-->
-<!--    <string name="texthotel4">Signiel Seoul</string>-->
-<!--    <string name="detailshotel4">The Signiel Seoul, a 5-star hotel high in the Lotte World Tower, offers panoramic city views, fine dining, an indoor pool, and a gym. It's directly connected to the Jamsil subway station and provides free Wi-Fi.</string>-->
-<!--    <string name="adresshotel4">300, Olympic-ro, Songpa-Gu, 05551 Séoul</string>-->
-<!--    <string name="contacthotel4">Contact Us on : 05566666666</string>-->
+    <!--    hotel4-->
+    <string name="texthotel4">Signiel Seoul</string>
+    <string name="detailshotel4">The Signiel Seoul, a 5-star hotel high in the Lotte World Tower, offers panoramic city views, fine dining, an indoor pool, and a gym. Its directly connected to the Jamsil subway station and provides free Wi-Fi.</string>
+    <string name="adresshotel4">300, Olympic-ro, Songpa-gu, 05551 Seoul, South Korea</string>
+    <string name="contacthotel4">Contact: +82-2-555-6666</string>
+
+<!--    hotel5-->
+
+    <string name="texthotel5">Sofitel Ambassador Seoul Hotel</string>
+    <string name="detailshotel5">luxurious 5-star hotel, blending French elegance with Korean hospitality near key attractions like Lotte World. It offers sophisticated rooms, diverse dining options, and excellent facilities</string>
+    <string name="adresshotel5">09, Jamsil-ro, Songpa-gu,05552 Séoul</string>
+    <string name="contacthotel5">Contact Us on : 05566666666</string>
 
 
 
@@ -78,5 +85,85 @@
     <string name="detailsrestaurant5">Samcheong-dong is famous for its Bukchon Hanok (Korean traditional houses) Village, surrounded by both Gyeongbokgung Palace and Changdeokgung Palace Many tourists come here to rent traditional Korean costume of Hanbok, walking around taking #OOTDs. It’s quite amusing to watch, really. Maybe one day I will get enough courage to do that </string>
     <string name="adressrestau5"> 74-7, Yulgok-ro 3-gil, Jongno-gu, Seoul 03061 South Korea.</string>
     <string name="contactrestau5">Contact Us on :+88477888 </string>
+
+
+                           <!--    garden-->
+
+    <!--    garden1    -->
+    <string name="textgarden1">Namsan Outdoor Botanical Garden</string>
+    <string name="detailsgarden1">There are several entrances. One popular route is to pass the overpass next to Hotel Hyatt in Itaewon. Local bus #3 reaches here.\n\nLots of flowers. There are well-maintained pine forest, bamboo forest, pavilions, ponds, stream, benches, little outdoor gyms, observation deck, kids\' park, flower garden, etc.\n\n- It\'s possible to climb up the mountain through this garden.</string>
+    <string name="adressgarden1">74-7, Yulgok-ro 3-gil, Jongno-gu, Seoul 03061 South Korea.</string>
+    <string name="contactgarden1">Contact Us: +82-2-7788</string>
+
+    <!--    garden2    -->
+    <string name="textgarden2">Namsan Park</string>
+    <string name="detailsgarden2">A must do if you’re in Seoul but you have to walk it!! It only takes 45 minutes (one way) and it’s not too steep. As you get higher and higher, you’ll be stunned with amazing views of the city and beautiful autumn trees. Head for the cable car entrance and turn right, there’s a big brick wall called the Seoul city limit which you can follow all the way up to the top of the mountain and to the tower. A really nice way to spend a couple of hours as the afternoon turns into the evening</string>
+    <string name="adressgarden2"> 74-7, Yulgok-ro 3-gil, Jongno-gu, Seoul 03061 South Korea.</string>
+    <string name="contactgarden2">Contact Us on :+88477888 </string>
+
+
+<!--    garden 3-->
+
+   <string name="textgarden3">Seoul Children s Grand Park</string>
+   <string name="detailsgarden3">This park has it all: rides, a zoo, a park, and a concert hall. Make sure to check out the most popular event: a dazzling water-fountain music and lights show.</string>
+   <string name="adressgarden3"> 74-7, Yulgok-ro 3-gil, Jongno-gu, Seoul 03061 South Korea.</string>
+   <string name="contactgarden3">Contact Us on :+88477888 </string>
+
+
+<!--    garden4-->
+
+    <string name="textgarden4">Seoul Iris Garden</string>
+    <string name="detailsgarden4">This is a nice park for neighbors. Not recommended to visit for tourists because the location is quite suburb of the city.
+        -there are water showers for kids, sports courts, etc..</string>
+    <string name="adressgarden4">916, Madeul-ro, Dobong-gu, Seoul 01318.</string>
+    <string name="contactgarden4">Contact Us on :+88477888 </string>
+
+
+<!--    garden5-->
+
+    <string name="textgarden5">Seoul Station Rooftop Garden</string>
+    <string name="detailsgarden5">This is a garden on the rooftop of Seoul Station. It has some interesting decoration. Good to take a look for minutes..</string>
+    <string name="adressgarden5">916, Madeul-ro, Dobong-gu, Seoul 01318.</string>
+    <string name="contactgarden5">Contact Us on :+88477888 </string>
+
+
+
+
+
+
+<!--    temple1-->
+    <string name="texttemple1">Best for a natural escape: Hwagyesa </string>
+    <string name="detailstemple1">Hwagyesa Temple offers a natural escape in Seoul, surrounded by lush greenery and peaceful trails, providing a serene retreat from the city.</string>
+    <string name="adresstemple1">117, Hwagyesa-gil, Suyu 1-dong, Gangbuk-gu, Seoul</string>
+    <string name="contacttemple1">Contact Us on :+82-2-902-2663 </string>
+
+<!--    temple2-->
+
+    <string name="texttemple2"> Best for ancient traditions: Bongwonsa</string>
+    <string name="detailstemple2">Bongwonsa Temple embodies ancient Korean Buddhist traditions through its historic rituals. It offers visitors an authentic glimpse into the heart of this cultural heritage.</string>
+    <string name="adresstemple2">55 Ujeongguk-ro, Jongno-gu, Seoul</string>
+    <string name="contacttemple2">Contact Us on :+82-2-768-8600 </string>
+
+<!--    temple 3-->
+
+    <string name="texttemple3"> Best classic favourite: Jogyesa</string>
+    <string name="detailstemple3">Jogyesa Temple is the chief temple of the Jogye Order of Korean Buddhism, located in the heart of Seoul. Its vibrant and intricately decorated main hall, Daeungjeon, houses several important Buddhist statues and artifacts. The temple serves as a central hub for Buddhist practices, ceremonies, and cultural events, offering a serene and spiritual escape amidst the bustling city. Its ancient trees and peaceful courtyards provide a tranquil atmosphere for visitors seeking contemplation and a glimpse into Korean Buddhist traditions.</string>
+    <string name="adresstemple3">55 Ujeongguk-ro, Jongno-gu, Seoul</string>
+    <string name="contacttemple3">Contact Us on :+82-2-768-8600 </string>
+
+
+    <!--    temple 4-->
+    <string name="texttemple4">Bongeunsa temple</string>
+    <string name="detailstemple4">Bongeunsa Temple, in Seouls Gangnam,is a peaceful evening retreat. Its serene atmosphere, softly lit by lanterns, offers a tranquil escape for quiet reflection and solitude.</string>
+    <string name="adresstemple4">67,Toegye-ro,Jung-gu,04529 Séoul</string>
+    <string name="contacttemple4">Contact Us on : 05566666666</string>
+
+
+<!--    temple5-->
+
+    <string name="texttemple5">Myeong-dong Cathedral</string>
+    <string name="detailstemple5">Myeong-dong Cathedral is a historic and architecturally impressive Gothic Revival church in central Seoul, a significant symbol of Korean Catholicism. Built in 1898, it has played a key role in the nations history and offers a peaceful respite in the vibrant Myeong-dong area.</string>
+    <string name="adresstemple5">77,Toegye-ro,Jung-gu,04529 Séoul</string>
+    <string name="contacttemple5">Contact Us on : 055768896</string>
 
 </resources>

@@ -84,6 +84,46 @@
             android:name=".restaurant5"
             android:exported="false" />
 
+        <activity
+            android:name=".garden1"
+            android:exported="false" />
+
+        <activity
+            android:name=".garden2"
+            android:exported="false" />
+
+        <activity
+            android:name=".garden3"
+            android:exported="false" />
+
+        <activity
+            android:name=".garden4"
+            android:exported="false" />
+
+        <activity
+            android:name=".garden5"
+            android:exported="false" />
+
+        <activity
+            android:name=".temple1"
+            android:exported="false" />
+
+        <activity
+            android:name=".temple2"
+            android:exported="false" />
+
+        <activity
+            android:name=".temple3"
+            android:exported="false" />
+
+        <activity
+            android:name=".temple4"
+            android:exported="false" />
+
+        <activity
+            android:name=".temple5"
+            android:exported="false" />
+
 
         <activity
             android:name=".main_temple"

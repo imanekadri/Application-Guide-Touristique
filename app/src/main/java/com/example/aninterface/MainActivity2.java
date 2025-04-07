@@ -139,6 +139,49 @@ public class MainActivity2 extends AppCompatActivity {
             startActivity(intent);
         });
 
+        cardgarden1=(ImageView) findViewById(R.id.card_garden1);
+        cardgarden2=(ImageView) findViewById(R.id.card_garden2);
+        cardgarden3=(ImageView) findViewById(R.id.card_garden3);
+
+        cardgarden1.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, garden1.class);
+            startActivity(intent);
+        });
+
+        cardgarden2.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, garden2.class);
+            startActivity(intent);
+        });
+
+        cardgarden3.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, garden3.class);
+            startActivity(intent);
+        });
+
+        cardtemple1=(ImageView) findViewById(R.id.card_temple1);
+        cardtemple2=(ImageView) findViewById(R.id.card_temple2);
+        cardtemple3=(ImageView) findViewById(R.id.card_temple3);
+
+        cardtemple1.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, temple1.class);
+            startActivity(intent);
+        });
+
+        cardtemple2.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, temple2.class);
+            startActivity(intent);
+        });
+
+        cardtemple3.setOnClickListener(v -> {
+            // Create an Intent to start a new Activity that will show the list
+            Intent intent = new Intent(MainActivity2.this, temple3.class);
+            startActivity(intent);
+        });
 
     }
 

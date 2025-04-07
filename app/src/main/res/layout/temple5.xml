@@ -5,8 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
-    tools:context=".hotel5">
+    tools:context=".temple5">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -15,60 +14,55 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            >
+            android:orientation="vertical">
 
             <ImageView
                 android:id="@+id/hotel"
-                android:layout_width="wrap_content"
-                android:layout_height="345dp"
+                android:layout_width="match_parent"
+                android:layout_height="355dp"
                 android:scaleType="centerCrop"
-                app:srcCompat="@drawable/sofiel" />
-
-
+                app:srcCompat="@drawable/temple5" />
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="291dp"
-                android:layout_marginTop="38dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="19dp"
                 android:background="@drawable/round_border"
                 android:orientation="vertical"
                 android:padding="16dp">
-
 
                 <TextView
                     android:id="@+id/text1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
-                    android:text="@string/texthotel5"
+                    android:text="@string/texttemple5"
                     android:textColor="@color/black"
                     android:textSize="22sp"
                     android:textStyle="bold" />
+
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
                     android:orientation="horizontal">
+
                     <ImageView
                         android:id="@+id/localisation"
                         android:layout_width="20dp"
                         android:layout_height="20dp"
-                        app:srcCompat="@drawable/baseline_location_on_24"
-                        />
+                        app:srcCompat="@drawable/baseline_location_on_24" />
+
                     <TextView
                         android:id="@+id/textt"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="@string/adresshotel5"
-                        android:textColor="@color/black"
-                        android:layout_marginLeft="5dp"
-                        android:textStyle="bold"
+                        android:layout_marginStart="5dp"
+                        android:text="@string/adresstemple5"
+                        android:textColor="@color/dark"
                         android:textSize="13sp"
-
-                        />
+                        android:textStyle="bold" />
                 </LinearLayout>
-
 
                 <TextView
                     android:id="@+id/text2"
@@ -85,7 +79,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="@string/detailshotel5"
+                    android:text="@string/detailstemple5"
                     android:textColor="@color/black"
                     android:textSize="18sp" />
 
@@ -105,25 +99,24 @@
                         android:rating="3.5"
                         android:stepSize="0.5" />
                 </LinearLayout>
+
                 <TextView
                     android:id="@+id/text9"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    android:text="@string/contacthotel5"
+                    android:text="@string/contacttemple5"
                     android:textColor="@color/black"
                     android:textSize="17sp"
                     android:textStyle="bold" />
-
-
             </LinearLayout>
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@color/white"
                 android:gravity="center_vertical"
                 android:orientation="horizontal"
-                android:background="@color/white"
                 android:padding="8dp">
 
                 <ImageView
@@ -131,7 +124,7 @@
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:scaleType="centerCrop"
-                    app:srcCompat="@drawable/download"  />
+                    app:srcCompat="@drawable/download" />
 
                 <TextView
                     android:id="@+id/tourist_guide_text"
@@ -164,7 +157,6 @@
                     android:layout_height="32dp"
                     android:layout_marginStart="16dp"
                     app:srcCompat="@drawable/ic_sms" />
-
             </LinearLayout>
         </LinearLayout>
     </ScrollView>
