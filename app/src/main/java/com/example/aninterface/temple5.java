@@ -18,7 +18,7 @@ public class temple5  extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.temple5);
 
-        emailIcon = findViewById(R.id.email_icon);
+        emailIcon =(ImageView) findViewById(R.id.email_icon);
         phoneIcon = findViewById(R.id.phone_icon);
         smsIcon = findViewById(R.id.sms_icon);
 

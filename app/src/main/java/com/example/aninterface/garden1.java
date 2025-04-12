@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class garden1 extends AppCompatActivity {
 
-    private ImageView emailIcon, phoneIcon, smsIcon;
+      ImageView emailIcon, phoneIcon, smsIcon;
 
 
     @Override

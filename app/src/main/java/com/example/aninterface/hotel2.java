@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class hotel2 extends AppCompatActivity {
 
 
-    private ImageView emailIcon, phoneIcon, smsIcon;
+     ImageView emailIcon, phoneIcon, smsIcon;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

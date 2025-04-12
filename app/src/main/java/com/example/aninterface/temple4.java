@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class temple4 extends AppCompatActivity {
 
-    private ImageView emailIcon, phoneIcon, smsIcon;
+     ImageView emailIcon, phoneIcon, smsIcon;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
