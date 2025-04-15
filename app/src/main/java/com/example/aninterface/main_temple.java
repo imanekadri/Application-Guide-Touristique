@@ -14,11 +14,11 @@ public class main_temple extends AppCompatActivity {
         setContentView(R.layout.list_tout); // Make sure this is your hotel layout
 
         ArrayList<all> templeList = new ArrayList<>();
-        templeList.add(new all("Hwagyesa", R.drawable.temple1,"£10"));
-        templeList.add(new all("Bongwonsal", R.drawable.temple2 ,"£50"));
-        templeList.add(new all("Jogyesa", R.drawable.temple3,"£25"));
-        templeList.add(new all("Bonjeunsa", R.drawable.temple4,"£10"));
-        templeList.add(new all("Myeong-dong Cathedral", R.drawable.temple5,"£100"));
+        templeList.add(new all(R.string.text_temple1, R.drawable.temple1,"£10"));
+        templeList.add(new all(R.string.text_temple2, R.drawable.temple2 ,"£50"));
+        templeList.add(new all(R.string.text_temple3, R.drawable.temple3,"£25"));
+        templeList.add(new all(R.string.text_temple4, R.drawable.temple4,"£10"));
+        templeList.add(new all(R.string.text_temple5, R.drawable.temple5,"£100"));
 
 
         ListView list = findViewById(R.id.list);

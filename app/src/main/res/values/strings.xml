@@ -1,12 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
 
     <string name="app_name">guide touristique</string>
+    <string name="get_started">get started</string>
     <string name="textview">Welcome To Our app\n \n Uncover Korea, the land of captivating stories and flavorful cuisine</string>
     <string name="tourist_guide">Tourist Guide</string>
+    <string name="getStarted_desp">Your pocket-sized travel companion for seamless navigation, curated recommendations, and unforgettable experiences.</string>
     <string name="description">Description</string>
 
-                      <!--    hotels-->
+
+    <!-- mainActivty-->
+
+    <string name="Seoul_text">Seoul, South Korea</string>
+    <string name="entre_search">Enter your...</string>
+    <string name="search">Search</string>
+    <string name="Categories">Categories</string>
+    <string name="Popular_hotel">Popular hotel</string>
+    <string name="Popular_Restaurant">Popular Restaurant</string>
+    <string name="Popular_Graden">Popular Garden</string>
+    <string name="Popular_temple">Popular Temple</string>
+    <string name="See_All">See All</string>
+
+    <!--  card   hotel1-->
+    <string name="text_hotel1">  Four Season Hotel</string>
+    <string name="location_hotel1">Jongno-Gu, Seoul</string>
+
+    <!--   card  hotel2-->
+    <string name="text_hotel2">  Espace Hotel</string>
+    <string name="location_hotel2">Jung-Gu</string>
+
+    <!--   card  hotel3-->
+    <string name="text_hotel3">  Ryse Hotel</string>
+    <string name="location_hotel3"> Mapo-Gu </string>
+
+    <string name="text_hotel4">Signiel Seoul</string>
+    <string name="text_hotel5"> Sofitel Ambassador Seoul Hotel</string>
+
+
+    <!--  card   restaurant1-->
+    <string name="text_restaurant1"> Daol Charcoal Grilll</string>
+    <string name="location_restaurant1">Myeongdong 2-gol</string>
+
+    <!--   card  restaurant2-->
+    <string name="text_restaurant2">  Flavors</string>
+    <string name="location_restaurant2">sinbanpo-ro</string>
+
+    <!--   card  restaurant3-->
+    <string name="text_restaurant3">  Odarijip Myeongdong</string>
+    <string name="location_restaurant3">Mapo-Gu, Seoul</string>
+
+    <string name="text_restaurant4">Wonjomanlgobchang</string>
+    <string name="text_restaurant5">Mukshidonna Samcheongdong</string>
+
+    <!--  card   graden1-->
+    <string name="text_graden1">  Namsan Outdoor </string>
+    <string name="location_graden1">vulgok_ro</string>
+
+    <!--   card  graden2-->
+    <string name="text_graden2"> Namsan Park</string>
+    <string name="location_graden2">vulgok_ro</string>
+
+    <!--   card  graden3-->
+    <string name="text_graden3">  Seoul Childrens </string>
+    <string name="location_graden3">vulgok_ro</string>  "Seoul Iris Garden"
+
+    <string name="text_graden4">  Seoul Iris Garden </string>
+    <string name="text_graden5">Seoul Station Rooftop Garden </string>
+
+    <!--  card   temple1-->
+    <string name="text_temple1">  Hwagyesa</string>
+    <string name="location_temple1">hwagyesa-gil</string>
+
+    <!--   card  temple2-->
+    <string name="text_temple2"> Bongwonsal</string>
+    <string name="location_temple2">Ujeonggok-re</string>
+
+    <!--   card  temple3-->
+    <string name="text_temple3"> Jogyesa</string>
+    <string name="location_temple3">ujeoagguk-ro</string>
+
+    <string name="text_temple4">Bonjeunsa</string>
+    <string name="text_temple5">Myeong-dong Cathedral</string>
+
+
+    <!--    hotels-->
 
 
     <!--    hotel1-->

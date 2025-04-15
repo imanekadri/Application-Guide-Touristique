@@ -14,11 +14,11 @@ public class main_hotel extends AppCompatActivity {
         setContentView(R.layout.list_tout); // Make sure this is your hotel layout
 
         ArrayList<all> hotelList = new ArrayList<>();
-        hotelList.add(new all("Four Season Hotel", R.drawable.four_season_hotel ,"$100"));
-        hotelList.add(new all("Espace Hotel", R.drawable.espace_hotel,"$300"));
-        hotelList.add(new all("Ryse Hotel", R.drawable.rsye_hotel,"£160"));
-        hotelList.add(new all("Signiel Seoul", R.drawable.signiel,"£900"));
-        hotelList.add(new all(" Sofitel Ambassador Seoul Hotel", R.drawable.sofiel,"£800"));
+        hotelList.add(new all(R.string.text_hotel1, R.drawable.four_season_hotel ,"$100"));
+        hotelList.add(new all(R.string.text_hotel2, R.drawable.espace_hotel,"$300"));
+        hotelList.add(new all(R.string.text_hotel3, R.drawable.rsye_hotel,"£160"));
+        hotelList.add(new all(R.string.text_hotel4, R.drawable.signiel,"£900"));
+        hotelList.add(new all(R.string.text_hotel5, R.drawable.sofiel,"£800"));
 
 
         ListView list = findViewById(R.id.list);

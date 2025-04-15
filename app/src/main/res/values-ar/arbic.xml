@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- get started-->
+
+    <string name="app_name">دليل سياحي</string>
+    <string name="textview">مرحباً بك في تطبيقنا\n\nاكتشف كوريا، أرض القصص الآسرة والمأكولات اللذيذة</string>
+    <string name="tourist_guide">دليل سياحي</string>
+    <string name="get_started">ابدأ</string>
+    <string name="getStarted_desp">رفيق سفرك بحجم الجيب لتنقل سلس، توصيات مخصصة، وتجارب لا تُنسى.</string>    <string name="description">الوصف</string>
+
+
+    <!-- mainActivity-->
+
+    <string name="Seoul_text">سيول، كوريا الجنوبية</string>
+    <string name="entre_search">أدخل...</string>
+    <string name="search">بحث</string>
+    <string name="Categories">الفئات</string>
+    <string name="Popular_hotel">فنادق شهيرة</string>
+    <string name="Popular_Restaurant">مطاعم شهيرة</string>
+    <string name="Popular_Graden">حدائق شهيرة</string>
+    <string name="Popular_temple">معابد شهيرة</string>
+    <string name="See_All">عرض الكل</string>
+
+    <!--   card  hotel1-->
+    <string name="text_hotel1">فندق فور سيزونز</string>
+    <string name="location_hotel1">جونغنو-غو، سيول</string>
+
+    <!--   card  hotel2-->
+    <string name="text_hotel2">فندق إسكيب</string>
+    <string name="location_hotel2">جونغ-غو</string>
+
+    <!--   card  hotel3-->
+    <string name="text_hotel3">فندق رايز</string>
+    <string name="location_hotel3">مابو-غو</string>
+
+    <string name="text_hotel4">فندق سيغنييل سيول</string>
+    <string name="text_hotel5">فندق سوفيتل أمباسادور سيول</string>
+
+    <!--   card  restaurant1-->
+
+    <string name="text_restaurant1">مطعم داول للشواء بالفحم</string>
+    <string name="location_restaurant1">ميونغدونغ 2-غول</string>
+
+    <!--   card  restaurant2-->
+    <string name="text_restaurant2">فلافورز</string>
+    <string name="location_restaurant2">سينبانبو-رو</string>
+
+    <!--   card  restaurant3-->
+
+    <string name="text_restaurant3">أوداريجيب ميونغدونغ</string>
+    <string name="location_restaurant3">مابو-غو، سيول</string>
+
+    <string name="text_restaurant4">وونجومنلغوبشانغ</string>
+    <string name="text_restaurant5">موكسيدونا سامتشيونغدونغ</string>
+
+    <!--   card  graden1-->
+    <string name="text_graden1">نامسان الخارجي</string>
+    <string name="location_graden1">فولغوك-رو</string>
+
+    <!--   card  graden2-->
+
+    <string name="text_graden2">منتزه نامسان</string>
+    <string name="location_graden2">فولغوك-رو</string>
+
+    <!--   card  graden3-->
+    <string name="text_graden3">حديقة سيول للأطفال</string>
+    <string name="location_graden3">فولغوك-رو</string>
+
+    <string name="text_graden4">حديقة سيول إيريس</string>
+    <string name="text_graden5">حديقة سطح محطة سيول</string>
+
+    <!--   card  temple1-->
+    <string name="text_temple1">هواغيسا</string>
+    <string name="location_temple1">هواغيسا-غيل</string>
+
+    <!--   card  temple2-->
+    <string name="text_temple2">بونغوونسا</string>
+    <string name="location_temple2">أوجيونغك-رو</string>
+
+    <!--   card  temple3-->
+    <string name="text_temple3">جوغيسا</string>
+    <string name="location_temple3">أوجيونغك-رو</string>
+
+    <string name="text_temple4">بونغيونسا</string>
+    <string name="text_temple5">كاتدرائية ميونغ-دونغ</string>
+
+    <!--    hotel1-->
+
+    <string name="textviewhotel1">فندق فور سيزونز سيول</string>
+    <string name="detailshotel1">يقع فندق فور سيزونز سيول على بعد خطوات من ساحة غوانغهوامون، ويتميز بإطلالات رائعة على المدينة و5 مطاعم داخلية، بالإضافة إلى مرافق لياقة بدنية حديثة.</string>
+    <string name="adresshotel1">97، سيمونان-رو، جونغنو-غو، 03183 سيول</string>
+    <string name="contacthotel1">تواصل معنا على: 05566666666</string>
+
+
+
+    <!--    hotel2 -->
+
+
+    <string name="textviewhotel2">فندق إسكيب</string>
+    <string name="detailshotel2">يقع فندق إسكيب في سيول ويوفر مركزًا للياقة البدنية وبارًا. مكتب الاستقبال مفتوح على مدار الساعة طوال أيام الأسبوع. يمكن للضيوف أيضًا الاستمتاع بمطعم في الموقع. يتم توفير خدمة الواي فاي المجانية.</string>
+    <string name="adresshotel2">67، تويجي-رو، جونغ-غو، 04529 سيول</string>
+    <string name="contacthotel2">تواصل معنا على: 05566666666</string>
+
+
+    <!--    hotel3-->
+
+
+    <string name="textviewhotel3">فندق رايز</string>
+    <string name="detailshotel3">فندق RYSE، مجموعة أوتوغراف سيول هو فندق في منطقة هونغداي الحيوية، بالقرب من محطة مترو جامعة هونغيك (المخرج 9، مع خطوط متعددة). يوفر خدمة الواي فاي المجانية وخدمة صف السيارات.</string>
+    <string name="adresshotel3">130، يانغوا-رو، مابو-غو، 04038 سيول</string>
+    <string name="contacthotel3">تواصل معنا على: 05566666666</string>
+
+
+
+    <!--    hotel4-->
+
+
+    <string name="texthotel4">فندق سيغنييل سيول</string>
+    <string name="detailshotel4">فندق سيغنييل سيول، فندق 5 نجوم يقع في برج لوت وورلد، يوفر إطلالات بانورامية على المدينة، ومطاعم فاخرة، ومسبحًا داخليًا، وصالة ألعاب رياضية. يتصل مباشرة بمحطة مترو جامسيل ويوفر خدمة الواي فاي المجانية.</string>
+    <string name="adresshotel4">300، أولمبيك-رو، سونغبا-غو، 05551 سيول، كوريا الجنوبية</string>
+    <string name="contacthotel4">تواصل: +82-2-555-6666</string>
+
+
+    <!--    hotels 5-->
+
+    <string name="texthotel5">فندق سوفيتل أمباسادور سيول</string>
+    <string name="detailshotel5">فندق فاخر من فئة 5 نجوم، يمزج بين الأناقة الفرنسية والضيافة الكورية بالقرب من مناطق الجذب الرئيسية مثل لوت وورلد. يقدم غرفًا متطورة وخيارات متنوعة لتناول الطعام ومرافق ممتازة</string>
+    <string name="adresshotel5">09، جامسيل-رو، سونغبا-غو، 05552 سيول</string>
+    <string name="contacthotel5">تواصل معنا على: 05566666666</string>
+
+
+
+    <string name="textviewres1">مطعم داول للشواء بالفحم</string>
+    <string name="detailsres1">فرع مطعم داول للشواء بالفحم ميونغدونغ هو مطعم يمكنك فيه تذوق الأطعمة الكورية التمثيلية مثل بولجوجي، يخنة معجون فول الصويا والأطعمة الطازجة.</string>
+    <string name="adressres1">54-2، ميونغدونغ 2-غا الطابقين الأول والثاني، سيول 04536</string>
+    <string name="contactres56">تواصل معنا على: +888888</string>
+
+
+    <string name="textrestau2">فلافورز</string>
+    <string name="detailsrestau2">انغمس في المأكولات العالمية اللذيذة في أجواء ديناميكية وأنيقة أثناء تناول الطعام في فلافورز. يقع مطعمنا في فندق جي دبليو ماريوت سول ويقدم وجبات الإفطار والغداء والعشاء يوميًا</string>
+    <string name="adressrestau2">176 سينبانبو-رو، سوتشو-غو سيول، كوريا الجنوبية</string>
+    <string name="contactrestau2">تواصل معنا على: +888888</string>
+
+
+
+    <string name="textrestau3">أوداريجيب ميونغدونغ</string>
+    <string name="detailsrestau3">يقع في المنطقة الأكثر ازدحامًا في ميونغدونغ، ويقدم مجموعة متنوعة من القوائم التي تشمل الأطعمة الكورية الأكثر شعبية مثل جالبي (لحم البقر)، سامجيوبسال (لحم الخنزير)، يوكهوي (لحم البقر النيئ)، ناينغميون (نودلز باردة) وتيوكبوكي.</string>
+    <string name="adressrestau3">الطابق الثاني، 28 ميونغدونغ 8نا-غيل، جونغ ديستريكت، سيول، كوريا الجنوبية</string>
+    <string name="contactrestau3">تواصل معنا على: +888888</string>
+
+    <string name="textrestau4">وونجومنلغوبشانغ</string>
+    <string name="detailsrestau4">مطاعم كورية متخصصة في الحساء مع براعم الفول. الأطعمة النباتية والمتخصصة في الأطعمة والطبيعة. استخدام المكونات النقية فقط التي توفر الأطعمة الصحية. الموظفين الودودين والأسعار المعقولة شيء جيد.</string>
+    <string name="adressrestau4">28، ميونغدونغ 8نا-غيل، جونغ-غو الطابق الثاني، سيول 04536.</string>
+    <string name="contactrestau4">تواصل معنا على: +888888</string>
+
+    <string name="textrestau5">موكسيدونا سامتشيونغدونغ</string>
+    <string name="detailsrestaurant5">تشتهر سامتشيونغ-دونغ بقرية بوكتشون هانوك (المنازل الكورية التقليدية)، المحاطة بقصر جيونغبوكغونغ وقصر تشانغديوكغونغ. يأتي العديد من السياح إلى هنا لاستئجار الأزياء الكورية التقليدية من الهانبوك، والتجول لالتقاط صور. إنه لأمر ممتع حقًا أن تشاهده. ربما في يوم من الأيام سأحصل على الشجاعة الكافية للقيام بذلك</string>
+    <string name="adressrestau5">74-7، يولغوك-رو 3-غيل، جونغنو-غو، سيول 03061 كوريا الجنوبية.</string>
+    <string name="contactrestau5">تواصل معنا على: +88477888</string>
+
+
+    <string name="textgarden1">حديقة نامسان النباتية الخارجية</string>
+    <string name="detailsgarden1">هناك عدة مداخل. أحد المسارات الشائعة هو عبور الجسر العلوي بجوار فندق حياة في إيتايون. يصل هنا الحافلة المحلية رقم 3.\n\nالكثير من الزهور. هناك غابة صنوبر مُعتنى بها جيدًا، غابة الخيزران، أجنحة، برك، مجرى، مقاعد، صالات رياضية خارجية صغيرة، منصة مراقبة، حديقة للأطفال، حديقة زهور، إلخ.\n\n- من الممكن تسلق الجبل عبر هذه الحديقة.</string>
+    <string name="adressgarden1">74-7، يولغوك-رو 3-غيل، جونغنو-غو، سيول 03061 كوريا الجنوبية.</string>
+    <string name="contactgarden1">تواصل معنا: +82-2-7788</string>
+
+    <string name="textgarden2">منتزه نامسان</string>
+    <string name="detailsgarden2">يجب القيام به إذا كنت في سيول، ولكن عليك المشي!! يستغرق 45 دقيقة فقط (في اتجاه واحد) وليس شديد الانحدار. كلما ارتفعت أكثر وأكثر، ستندهش من المناظر الخلابة للمدينة وأشجار الخريف الجميلة. توجه إلى مدخل التلفريك واستدر يمينًا، هناك جدار كبير من الطوب يسمى حدود مدينة سيول يمكنك اتباعه طوال الطريق إلى قمة الجبل وإلى البرج. طريقة لطيفة حقًا لقضاء بضع ساعات مع تحول فترة ما بعد الظهر إلى المساء</string>
+    <string name="adressgarden2">74-7، يولغوك-رو 3-غيل، جونغنو-غو، سيول 03061 كوريا الجنوبية.</string>
+    <string name="contactgarden2">تواصل معنا على: +88477888</string>
+
+    <string name="textgarden3">حديقة سيول الكبرى للأطفال</string>
+    <string name="detailsgarden3">هذه الحديقة بها كل شيء: ألعاب، حديقة حيوان، حديقة، وقاعة حفلات موسيقية. تأكد من مشاهدة الحدث الأكثر شعبية: عرض نافورة المياه والموسيقى والأضواء المبهر.</string>
+    <string name="adressgarden3">74-7، يولغوك-رو 3-غيل، جونغنو-غو، سيول 03061 كوريا الجنوبية.</string>
+    <string name="contactgarden3">تواصل معنا على: +88477888</string>
+
+    <string name="textgarden4">حديقة سيول إيريس</string>
+    <string name="detailsgarden4">هذه حديقة لطيفة للجيران. لا يُنصح بزيارتها للسياح لأن الموقع يقع في ضواحي المدينة.\n- هناك رشاشات مياه للأطفال، ملاعب رياضية، إلخ.</string>
+    <string name="adressgarden4">916، مادول-رو، دوبونغ-غو، سيول 01318.</string>
+    <string name="contactgarden4">تواصل معنا على: +88477888</string>
+
+    <string name="textgarden5">حديقة سطح محطة سيول</string>
+    <string name="detailsgarden5">هذه حديقة على سطح محطة سيول. بها بعض الزخارف المثيرة للاهتمام. جيد لإلقاء نظرة لدقائق..</string>
+    <string name="adressgarden5">916، مادول-رو، دوبونغ-غو، سيول 01318.</string>
+    <string name="contactgarden5">تواصل معنا على: +88477888</string>
+
+    <string name="texttemple1">الأفضل للهروب إلى الطبيعة: هواغيسا</string>
+    <string name="detailstemple1">يوفر معبد هواغيسا ملاذًا طبيعيًا في سيول، محاطًا بالمساحات الخضراء المورقة والممرات الهادئة، مما يوفر ملاذًا هادئًا من المدينة.</string>
+    <string name="adresstemple1">117، هواغيسا-غيل، سويو 1-دونغ، غانغبوك-غو، سيول</string>
+    <string name="contacttemple1">تواصل معنا على: +82-2-902-2663</string>
+
+    <string name="texttemple2">الأفضل للتقاليد القديمة: بونغوونسا</string>
+    <string name="detailstemple2">يجسد معبد بونغوونسا التقاليد البوذية الكورية القديمة من خلال طقوسه التاريخية. يقدم للزوار لمحة أصيلة عن قلب هذا التراث الثقافي.</string>
+    <string name="adresstemple2">55 أوجونغك-رو، جونغنو-غو، سيول</string>
+    <string name="contacttemple2">تواصل معنا على: +82-2-768-8600</string>
+
+    <string name="texttemple3">الأفضل كلاسيكي مفضل: جوغيسا</string>
+    <string name="detailstemple3">معبد جوغيسا هو المعبد الرئيسي لنظام جوغي للبوذية الكورية، ويقع في قلب سيول. قاعته الرئيسية النابضة بالحياة والمزينة بشكل معقد، دايونغجيون، تضم العديد من التماثيل والتحف البوذية الهامة. يعمل المعبد كمركز رئيسي للممارسات البوذية والاحتفالات والفعاليات الثقافية، مما يوفر ملاذًا هادئًا وروحيًا وسط المدينة الصاخبة. توفر أشجاره القديمة وساحاته الهادئة جوًا هادئًا للزوار الذين يبحثون عن التأمل ولمحة عن التقاليد البوذية الكورية.</string>
+    <string name="adresstemple3">55 أوجونغك-رو، جونغنو-غو، سيول</string>
+    <string name="contacttemple3">تواصل معنا على: +82-2-768-8600</string>
+
+    <string name="texttemple4">معبد بونغيونسا</string>
+    <string name="detailstemple4">معبد بونغيونسا، في غانغنام سيول، هو ملاذ مسائي هادئ. يوفر جوه الهادئ، المضاء بمصابيح الفوانيس، ملاذًا هادئًا للتأمل والصمت.</string>
+    <string name="adresstemple4">67، تويجي-رو، جونغ-غو، 04529 سيول</string>
+    <string name="contacttemple4">تواصل معنا على: 05566666666</string>
+
+    <string name="texttemple5">كاتدرائية ميونغ-دونغ</string>
+    <string name="detailstemple5">كاتدرائية ميونغ-دونغ هي كنيسة قوطية إحياء تاريخية ومثيرة للإعجاب من الناحية المعمارية في وسط سيول، وهي رمز مهم للكاثوليكية الكورية. بُنيت عام 1898، ولعبت دورًا رئيسيًا في تاريخ الأمة وتوفر ملاذًا هادئًا في منطقة ميونغ-دونغ النابضة بالحياة.</string>
+    <string name="adresstemple5">77، تويجي-رو، جونغ-غو، 04529 سيول</string>
+    <string name="contacttemple5">تواصل معنا على: 055768896</string>
+
+</resources>

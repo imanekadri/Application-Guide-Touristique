@@ -14,11 +14,11 @@ public class main_Garden extends AppCompatActivity {
         setContentView(R.layout.list_tout); // Make sure this is your hotel layout
 
         ArrayList<all> gardenList = new ArrayList<>();
-        gardenList.add(new all("Namsan Outdoor", R.drawable.nassaln_jardan,"£100"));
-        gardenList.add(new all("Namsan Park", R.drawable.namsan_jadrn  ,"£500"));
-        gardenList.add(new all("Seoul Children's", R.drawable.seoul_child_gar,"£250"));
-        gardenList.add(new all("Seoul Iris Garden", R.drawable.garden4,"£100"));
-        gardenList.add(new all("Seoul Station Rooftop Garden", R.drawable.garden5,"£400"));
+        gardenList.add(new all(R.string.text_graden1, R.drawable.nassaln_jardan,"£100"));
+        gardenList.add(new all(R.string.text_graden2, R.drawable.namsan_jadrn  ,"£500"));
+        gardenList.add(new all(R.string.text_graden3, R.drawable.seoul_child_gar,"£250"));
+        gardenList.add(new all(R.string.text_graden4, R.drawable.garden4,"£100"));
+        gardenList.add(new all(R.string.text_graden5, R.drawable.garden5,"£400"));
 
 
         ListView list = findViewById(R.id.list);
